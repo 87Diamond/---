@@ -51,4 +51,6 @@
 &nbsp;- 3. **MQTT** -> ESP8266 -> Relay -> **Fan**
 
 
+---
 
+\- **PPT**: https://drive.google.com/file/d/1cGEpVinuEoo9kGQ6QB18SrgZG-x7e074/view?usp=drive_link
